@@ -33,10 +33,10 @@ The primary data set used for this analysis is the "HR Attendance Sheet.xlsx" fi
 ### Data Cleaning
 
 In the initial data preparation phase, i performed the following tasks:
-Data loading and inspection
-Handling missing values
-Removing duplicates
-Data formatting
+- Data loading and inspection
+- Handling missing values
+- Removing duplicates
+- Data formatting
 
 
 ### Exploratory Data Analysis
