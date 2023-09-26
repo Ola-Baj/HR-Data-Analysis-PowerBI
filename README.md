@@ -13,10 +13,9 @@ ArialOne is committed to better understanding its workforce to create a more tai
 Furthermore, we aim to examine sick leave patterns among our employees, delving into the percentage of employees on sick leave and the reasons behind these absences. By doing so, we can make informed decisions to improve employee well-being and productivity.
 
 
-### Tools Used
+### Data Source
 
-- Microsoft Excel
-- Power BI
+The primary data set used for this analysis is the "HR Attendance Sheet.xlsx" file, containing detailed information about each employee presence and preference over time.
 
 
 ### Skills Applied
@@ -25,8 +24,24 @@ Furthermore, we aim to examine sick leave patterns among our employees, delving 
 - Data Visualization
 
 
-### Questions Explored
+### Tools Used
 
+- Microsoft Excel
+- Power BI
+
+  
+### Data Cleaning
+
+In the initial data preparation phase, i performed the following tasks:
+Data loading and inspection
+Handling missing values
+Removing duplicates
+Data formatting
+
+
+### Exploratory Data Analysis
+
+I explored the employees presence data to answer key questions such as :
 1. What's the percentage of attendance over time?
 2. What's the percentage of SL over time?
 3. What's the percentage of WFH over time?
